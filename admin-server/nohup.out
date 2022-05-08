@@ -1,0 +1,11 @@
+listening http://127.0.0.1:8000
+listening http://127.0.0.1:8000
+[ RowDataPacket { id: 'admin', pass: 'admin', identity: 'root' } ]
+[ RowDataPacket { id: 'admin', pass: 'admin', identity: 'root' } ]
+[
+  RowDataPacket { in_file: '1649490063897_周兴国.jpg' },
+  RowDataPacket { in_file: '1649490287858_周兴国.jpg' },
+  RowDataPacket { in_file: '1649495704113_周兴国.jpg' },
+  RowDataPacket { in_file: '1649563850140_刘想.jpg' },
+  RowDataPacket { in_file: '1649563853178_刘想.jpg' }
+]
